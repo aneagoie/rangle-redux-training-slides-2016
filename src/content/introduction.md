@@ -7,7 +7,7 @@
 ## Prerequisites
 
 - Access to the command line
-- Node JS (v6 or higher)
+- Node.jS (v6 or higher)
 - NPM (v3 or higher)
 - Code editor (Sublime, Atom, etc.)
 - Some JavaScript knowledge (ES2014/ES2015)
@@ -17,9 +17,9 @@
 
 ## Structure of this Training
 
-- 1.5 hours training
-- 15 min Intro/Slides
-- 1h 15 min Live Coding
+- 2 hours training
+- 20 min Intro/Slides
+- 1h 40 min Live Coding
 
 ---
 
