@@ -2,15 +2,21 @@
 
 # Rangle.io
 
+>Presented by:
+
+>Andrei Neagoie - @aneagoie
+
+>Rob Brander - @rbrander
+
 ---
 
 ## Prerequisites
 
 - Access to the command line
-- Node.jS (v6 or higher)
+- Node.js (v6 or higher)
 - NPM (v3 or higher)
 - Code editor (Sublime, Atom, etc.)
-- Some JavaScript knowledge (ES2014/ES2015)
+- Some JavaScript knowledge (ES5/ES6)
 - Basic React Knowledge (Part 1 of this course)
 
 ---
@@ -28,7 +34,7 @@
 This is part 2 of a 3 part series:
 
 - Part 1: Intro to React (3h)
-- **_Part 2: Intro to Redux (1.5h)_**
+- **_Part 2: Intro to Redux (2h)_**
 - Part 3: Advanced React and Redux (2h)
 
 
@@ -60,14 +66,16 @@ This is part 2 of a 3 part series:
 
 ![flux](content/images/flux.png "flux")
 
+> Image from code.facebook.com
+
 ---
 
 ## What is Redux?
 
 - Creation by Dan Abramov
-- Like a model layer (MVC)
+- Like a model layer (The 'M' in MVC)
 - Implementation of flux architecture
-- Larger, global version of this.state
+- Larger, global version of `this.state`
 
 ---
 
@@ -87,6 +95,10 @@ This is part 2 of a 3 part series:
 ---
 
 ## Enough talking, lets code!
+
+```bash
+$ git clone https://github.com/aneagoie/react-training-RoboDex.git
+```
 
 ---
 
